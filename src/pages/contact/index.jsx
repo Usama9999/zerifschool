@@ -151,6 +151,9 @@ export function Contact() {
                     <a href="tel:+994503316092" className="hover:text-gray-900">
                       +994 50 331 60 92
                     </a>
+                    {/* <a href="tel:+994503316092" className="hover:text-gray-900">
+                      +994 50 331 60 92
+                    </a> */}
                   </dd>
                 </div>
                 <div className="flex gap-x-4">
