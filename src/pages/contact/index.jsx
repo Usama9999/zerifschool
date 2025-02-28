@@ -123,7 +123,7 @@ export function Contact() {
               </h2>
               <p className="mt-6 text-lg/8 text-gray-600">
                 Suallarınız var? Daha çox məlumat lazımdır? Biz kömək etməyə
-                hazırıq! Zerif Sürücülük Məktəbi ilə bu gün əlaqə saxlayın və
+                hazırıq! Zərif Sürücülük Məktəbi ilə bu gün əlaqə saxlayın və
                 inamlı sürücü olmaq üçün ilk addımı atın.
               </p>
               <dl className="mt-10 space-y-4 text-base/7 text-gray-600">
@@ -163,10 +163,10 @@ export function Contact() {
                   </dt>
                   <dd>
                     <a
-                      href="Zerifeazizova76@gmail.com"
+                      href="Zərifeazizova76@gmail.com"
                       className="hover:text-gray-900"
                     >
-                      Zerifeazizova76@gmail.com
+                      Zərifeazizova76@gmail.com
                     </a>
                   </dd>
                 </div>
